@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Docs folder
+# Posts
 
 {% include list.liquid all=true %}
