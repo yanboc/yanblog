@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Posts
+# 笔记
 
-{% include list.liquid all=true %}
+要来咯
